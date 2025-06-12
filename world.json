@@ -1,0 +1,123 @@
+[
+    {
+        "id": 0,
+        "north": false,
+        "east": 4,
+        "south": false,
+        "west": 2,
+        "start": true,
+        "finish": false,
+        "name": "meadow",
+        "description": ""
+    },
+    {
+        "id": 1,
+        "north": false,
+        "east": false,
+        "south": false,
+        "west": false,
+        "start": false,
+        "finish": true,
+        "name": "the valley overlook",
+        "description": ""
+    },
+    {
+        "id": 2,
+        "north": false,
+        "east": 3,
+        "south": 0,
+        "west": false,
+        "start": false,
+        "finish": false,
+        "name": "trail leading into forest",
+        "description": ""
+    },
+    {
+        "id": 3,
+        "north": 6,
+        "east": false,
+        "south": false,
+        "west": 2,
+        "start": false,
+        "finish": false,
+        "name": "forest trail",
+        "description": ""
+    },
+    {
+        "id": 4,
+        "north": 7,
+        "east": false,
+        "south": 0,
+        "west": false,
+        "start": false,
+        "finish": false,
+        "name": "sunny forest trail",
+        "description": ""
+    },
+    {
+        "id": 5,
+        "north": 8,
+        "east": 6,
+        "south": false,
+        "west": false,
+        "start": false,
+        "finish": false,
+        "name": "dark forest trail",
+        "description": ""
+    },
+    {
+        "id": 6,
+        "north": 9,
+        "east": 7,
+        "south": 3,
+        "west": 5,
+        "start": false,
+        "finish": false,
+        "name": "the great clearing",
+        "description": ""
+    },
+    {
+        "id": 7,
+        "north": false,
+        "east": false,
+        "south": 4,
+        "west": 6,
+        "start": false,
+        "finish": false,
+        "name": "quiet forest trail",
+        "description": ""
+    },
+    {
+        "id": 8,
+        "north": false,
+        "east": false,
+        "south": 5,
+        "west": false,
+        "start": false,
+        "finish": false,
+        "name": "the witches lair",
+        "description": ""
+    },
+    {
+        "id": 9,
+        "north": 1,
+        "east": 10,
+        "south": 6,
+        "west": false,
+        "start": false,
+        "finish": false,
+        "name": "wide forest trail",
+        "description": ""
+    },
+    {
+        "id": 10,
+        "north": 1,
+        "east": false,
+        "south": false,
+        "west": 9,
+        "start": false,
+        "finish": false,
+        "name": "winding forest trail",
+        "description": ""
+    }
+]
